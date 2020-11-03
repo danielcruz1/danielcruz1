@@ -24,7 +24,7 @@
 
 <details>
 
-<summary>More Aout Me!(click to expand)</summary>
+<summary>More About Me!(click to expand)</summary>
 <p align="left">  
 <strong> For the last year and a half, thanks to Lambda School's part time full stack web dev program, I have been pouring my heart and soul into learning how to code. I chose the full stack web development route because I believe in understanding a product from front to back, and because my brain doesn't allow me to only understand half of a thing! It's much easier to sell a whole thing as opposed to a half of a thing!
 </strong></p>  
