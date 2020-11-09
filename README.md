@@ -12,11 +12,11 @@
 
 
 
-- 🔭 I’m currently working on **landing my first web dev job!**
+- 🔭 I’m currently working on **becoming an amazing team member and a strong JavaScript developer!**
 
 - 👨‍💻 All of my projects are available right here on [GitHub!](https://github.com/danielcruz1)
 
-- 💬 Ask me about **my journey into software development.**
+- 💬 Ask me about **my unique transition into the software development field.**
 
 - 📫 How to reach me: **danielcruz-webdev@gmail.com**
 
