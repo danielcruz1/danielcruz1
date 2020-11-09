@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Daniel Cruz</h1>
-<h3 align="center">'A lion does not concern himself with the opinion of sheep.'</h3>
+<h3 align="center">'It does not matter how slowly you go so long as you do not stop. - Confucius'</h3>
 
 <p align="center">
 <a href="https://twitter.com/danielpgcruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="danielpgcruz" height="20" width="20" /></a>
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **landing my first web dev job!**
 
-- 👨‍💻 All of my projects are available right here on [Github!](https://github.com/danielcruz1)
+- 👨‍💻 All of my projects are available right here on [GitHub!](https://github.com/danielcruz1)
 
 - 💬 Ask me about **my journey into software development.**
 
