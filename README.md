@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available right here on [GitHub!](https://github.com/danielcruz1)
 
-- 💬 Ask me about **my unique transition into the software development field.**
+- 💬 Ask me about **my unique transition into the software development.**
 
 - 📫 How to reach me: **danielcruz-webdev@gmail.com**
 
