@@ -36,17 +36,16 @@
 
 <p align="left">
   
-  <img src="https://img.icons8.com/fluency/256/javascript.png" alt="javascript" width="50" height="50"/>
-  <img src="https://img.icons8.com/officel/256/react.png" alt="react" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/52811884/228062414-36a5f92e-c529-4aac-83d1-c1cea39505a9.png" alt="angular" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/256/javascript.png" alt="javascript" width="50" height="50"/>
+  <img src="https://img.icons8.com/officel/256/react.png" alt="react" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/52811884/228062414-36a5f92e-c529-4aac-83d1-c1cea39505a9.png" alt="angular" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 
-    
 </p>  
 
 
