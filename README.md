@@ -2,7 +2,7 @@
 <h3 align="center">'It does not matter how slowly you go so long as you do not stop.'  - Confucius</h3>
 
 <p align="center">
-<!-- <a href="https://twitter.com/danielpgcruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="danielpgcruz" height="20" width="20" /></a> -->
+<!-- <a href="https://twitter.com/danielpgcruz" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" alt="danielpgcruz" height="50" width="50" /></a> -->
 <a href="https://linkedin.com/in/danielpcruz" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin-circled--v2.png" alt="danielpcruz" height="20" width="20" /></a>
 <!-- <a href="https://danielcruz.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="danielpcruz" height="20" width="20" /></a> -->
 
