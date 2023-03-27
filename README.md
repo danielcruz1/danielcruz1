@@ -36,7 +36,7 @@
 
 <p align="left">
   
-  <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="javascript" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/256/javascript.png" alt="javascript" width="50" height="50"/>
   <img src="https://img.icons8.com/dotty/80/000000/react.png" alt="react" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/52811884/228062414-36a5f92e-c529-4aac-83d1-c1cea39505a9.png" alt="angular" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="node" width="50" height="50"/>
