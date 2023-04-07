@@ -27,7 +27,7 @@
 
 <summary>More About Me!</summary>
 <p align="left">  
-<strong> For the last year and a half, thanks to Lambda School's part time full stack web dev program, I have been pouring my heart and soul into learning how to code. I chose the full stack web development route because I believe in understanding a product from front to back, and because my brain doesn't allow me to only understand half of a thing! It's much easier to sell a whole thing as opposed to a half of a thing!
+<strong> I love building things, especially when the end result is something useful or even just visually pleasing to look at. I take pride in the ability to make things just a little bit easier for customers to use that provides a meaningful experience for them in some way. I'm a problem solver and am not afraid to wield the many weapons I have to find a solution!
 </strong></p>  
 
 </details> 
